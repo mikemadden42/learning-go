@@ -22,3 +22,11 @@ Click the checkbox to the left of the search bar to select all of them.
 
 Click OK. The installation process will begin
 You will see output at the bottom of the window showing the installation progress.
+
+You may also want to research & install these tools:
+
+- [delve](https://github.com/go-delve/delve)
+- [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports)
+- [golint](https://pkg.go.dev/golang.org/x/lint/golint)
+- [goreleaser](https://github.com/goreleaser/goreleaser/)
+- [gosec](https://github.com/securego/gosec)
